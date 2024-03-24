@@ -4,7 +4,7 @@
 
 🎓 I am an undergraduate student at the National School of Computer Science and Systems Analysis, specializing in Business Intelligence and Data Analytics. My primary focus is on data-related fields. Additionally, I am passionate about exploring topics such as Artificial Intelligence and Web Development. 
 
-* 📫 You can contact me at [abjaou.oumaima2002@gmail.com](mailto:abjaou.oumaima2002@gmail.com)
+* 📫 You can contact me at [abjaou.oumaima2002@gmail.com](abjaou.oumaima2002@gmail.com)
 
 * 🧠 I'm learning machine learning and deep learning algorithms.
 
@@ -50,6 +50,50 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="36" height="36"/>
 </a>
 
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="36" height="36"/>
+</a>
+
+<!-- Seaborn -->
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="36" height="36"/>
+</a>
+
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="36" height="36"/>
+</a>
+
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="36" height="36"/>
+</a>
+
+<!-- Scikit-learn -->
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="36" height="36"/>
+</a>
+
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="36" height="36"/>
+</a>
+
+<!-- XGBoost -->
+<a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original.svg" alt="XGBoost" width="36" height="36"/>
+</a>
+
+<!-- LightGBM -->
+<a href="https://lightgbm.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lightgbm/lightgbm-original.svg" alt="LightGBM" width="36" height="36"/>
+</a>
+
+<!-- CatBoost -->
+<a href="https://catboost.ai/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/catboost/catboost-original.svg" alt="CatBoost" width="36" height="36"/>
+</a>
 <!-- SQLServer -->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQLServer" width="36" height="36"/>
@@ -59,15 +103,7 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>
 </a>
-<!-- SSIS -->
-<a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssis/ssis-original.svg" alt="SSIS" width="36" height="36"/>
-</a>
 
-<!-- SSAS -->
-<a href="https://docs.microsoft.com/en-us/sql/analysis-services/sql-server-analysis-services?view=sql-server-ver15" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssas/ssas-original.svg" alt="SSAS" width="36" height="36"/>
-</a>
 
 
 </p>
