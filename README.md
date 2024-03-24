@@ -4,7 +4,7 @@
 
 🎓 I am an undergraduate student at the National School of Computer Science and Systems Analysis, specializing in Business Intelligence and Data Analytics. My primary focus is on data-related fields. Additionally, I am passionate about exploring topics such as Artificial Intelligence and Web Development. 
 
-* 📫 You can contact me at [oumaima_abjaou@um5.ac.ma](mailto:abjaou.oumaiama2002@gmail.com)
+* 📫 You can contact me at [abjaou.oumaiama2002@gmail.com](mailto:abjaou.oumaiama2002@gmail.com)
 
 * 🧠 I'm learning machine learning and deep learning algorithms.
 
