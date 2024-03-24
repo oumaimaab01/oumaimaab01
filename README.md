@@ -35,7 +35,6 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="36" height="36"/>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain.svg" alt="Power BI" width="36" height="36"/>
 </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
