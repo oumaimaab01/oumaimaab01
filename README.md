@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Oumaima ABJAOU</h1>
-<h3 align="center"> Business Intelligence & Analytics Student @ENSIAS || MLOps enthusiast</h3> 
+<h3 align="center"> Business Intelligence & Analytics Student @ENSIAS || AI enthusiast</h3> 
 
-🎓 I am an undergraduate student at the National School of Computer Science and Systems Analysis, specializing in Business Intelligence and Data Analytics. My primary focus is on data-related fields. Additionally, I am passionate about exploring topics such as Computer Vision, and Web Development. 
+🎓 I am an undergraduate student at the National School of Computer Science and Systems Analysis, specializing in Business Intelligence and Data Analytics. My primary focus is on data-related fields. Additionally, I am passionate about exploring topics such as Artificial Intelligence and Web Development. 
 
-* 📫 You can contact me at [oumaima_abjaou@um5.ac.ma](mailto:abjaou.oumaiam2002@gmail.com)
+* 📫 You can contact me at [oumaima_abjaou@um5.ac.ma](mailto:abjaou.oumaiama2002@gmail.com)
 
-* 🧠 I'm learning R for data analysis, Tableau for data visualization, and machine learning algorithms.
+* 🧠 I'm learning machine learning and deep learning algorithms.
 
 * 🤝 I'm open to collaborating on projects related to data analytics and business intelligence.
 
