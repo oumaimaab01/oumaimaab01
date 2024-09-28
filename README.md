@@ -78,20 +78,6 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>
 </a>
 
-<!-- SSIS -->
-<a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="SSIS" width="36" height="36" title="SQL Server Integration Services" /></a>
-
-<!-- SSRS -->
-<a href="https://docs.microsoft.com/en-us/sql/reporting-services/report-design/report-builder?view=sql-server-ver15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="SSRS" width="36" height="36" title="SQL Server Reporting Services" /></a>
-
-<!-- SSAS -->
-<a href="https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services?view=sql-server-ver15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="SSAS" width="36" height="36" title="SQL Server Analysis Services" /></a>
-
-<!-- Tableau -->
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="36" height="36"/></a>
-
-<!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="36" height="36"/></a>
 
 </p>
 
