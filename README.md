@@ -59,7 +59,7 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" />
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="36" height="36" alt="Seaborn" />
+        <img src="https://seaborn.pydata.org/_static/seaborn-logo.svg" width="36" height="36" alt="Seaborn" />
     </a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
@@ -83,7 +83,7 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/catboost/catboost-original.svg" width="36" height="36" alt="CatBoost" />
     </a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="36" height="36" alt="Hugging Face" />
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36" alt="Hugging Face" />
     </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://fastapi.tiangolo.com/img/logo.svg" width="36" height="36" alt="FastAPI" />
@@ -112,7 +112,7 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
 <p>
     <strong>Data Integration/Analysis/Reporting:</strong>
     <a href="https://www.talend.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Talend_logo.svg" width="36" height="36" alt="Talend" />
+        <img src="https://www.talend.com/wp-content/themes/talend/assets/images/talend-logo.svg" width="36" height="36" alt="Talend" />
     </a>
     <a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SSIS" />
@@ -131,10 +131,10 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="36" height="36" alt="JIRA" />
     </a>
     <a href="https://trello.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Trello_logo.svg" width="36" height="36" alt="Trello" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="36" height="36" alt="Trello" />
     </a>
     <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Notion_logo.svg" width="36" height="36" alt="Notion" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Notion_logo.svg" width="36" height="36" alt="Notion" />
     </a>
 </p>
 
@@ -153,10 +153,9 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
     </a>
     <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/LaTeX_logo.svg" width="36" height="36" alt="LaTeX" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="36" height="36" alt="LaTeX" />
     </a>
 </p>
-
 
 ### Socials
 
