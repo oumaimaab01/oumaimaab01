@@ -1,4 +1,3 @@
-improve this adding more items and technologies :
 <h1 align="center">Hi 👋, I'm Oumaima ABJAOU</h1>
 <h3 align="center"> Business Intelligence & Analytics Student @ENSIAS || AI enthusiast</h3> 
 
