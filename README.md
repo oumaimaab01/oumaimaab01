@@ -87,29 +87,10 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="36" height="36"/>
   </a>
 
-  <!-- Apache Spark -->
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/spark-original.svg" alt="Apache Spark" width="36" height="36"/>
-  </a>
 
   <!-- Apache Hadoop -->
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Apache Hadoop" width="36" height="36"/>
-  </a>
-
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="36" height="36"/>
-  </a>
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Power BI" width="36" height="36"/>
-  </a>
-
-  <!-- SQL Server Integration Services (SSIS) -->
-  <a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="SSIS" width="36" height="36"/>
   </a>
 
   <!-- FastAPI -->
