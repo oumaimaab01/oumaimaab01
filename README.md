@@ -22,7 +22,7 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
 <p>
 
   <!-- Programming Languages -->
-  <strong>Programming Languages:</strong><br>
+  <strong>Programming Languages:</strong>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
   </a>
@@ -38,7 +38,7 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   </a>
   
   <!-- Web Technologies -->
-  <strong>Web Technologies:</strong><br>
+  <strong>Web Technologies:</strong>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   </a>
@@ -49,7 +49,7 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
   </a>
   <!-- Databases -->
-  <strong>Databases:</strong><br>
+  <strong>Databases:</strong>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36"/>
   </a>
@@ -64,7 +64,7 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   </a>
   
   <!-- Data Science Libraries -->
-  <strong>Data Science Libraries:</strong><br>
+  <strong>Data Science Libraries:</strong>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="36" height="36"/>
   </a>
@@ -84,7 +84,7 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="36" height="36"/>
   </a>
   <!-- Tools and Frameworks -->
-  <strong>Tools and Frameworks:</strong><br>
+  <strong>Tools and Frameworks:</strong>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
   </a>
@@ -113,14 +113,17 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Apache Hadoop" width="36" height="36"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+
+  
+ <strong>Web Scraping:</strong>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="36" height="36"/>
   </a>
   
-
+  <strong>Others:</strong>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
+  </a>
 </p>
 
 
