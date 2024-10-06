@@ -96,9 +96,12 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36"/>
   </a>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="36" height="36"/> </a> 
-
-
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)" alt="Flask" width="36" height="36"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg)" alt="Jupyter" width="36" height="36"/>
+  </a>
 </p>
 
 ### Socials
