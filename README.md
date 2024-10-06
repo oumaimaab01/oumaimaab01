@@ -96,15 +96,8 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36"/>
   </a>
 
-    <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Tableau_Logo.png" alt="Tableau" width="36" height="36"/>
-  </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="36" height="36"/> </a> 
 
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="36" height="36"/>
-  </a>
 
 </p>
 
