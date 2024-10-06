@@ -38,8 +38,6 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="36" height="36"/>
   </a>
-
-  <br><br>
   
   <!-- Web Technologies -->
   <strong>Web Technologies:</strong><br>
@@ -49,8 +47,6 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   </a>
-
-  <br><br>
 
   <!-- Databases -->
   <strong>Databases:</strong><br>
@@ -67,8 +63,6 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
   </a>
   
-  <br><br>
-
   <!-- Data Science Libraries -->
   <strong>Data Science Libraries:</strong><br>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
@@ -89,9 +83,6 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="36" height="36"/>
   </a>
-  
-  <br><br>
-
   <!-- Tools and Frameworks -->
   <strong>Tools and Frameworks:</strong><br>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
@@ -110,7 +101,6 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="36" height="36"/>
   </a>
   
-  <br><br>
 
   <!-- Data Engineering Tools -->
   <strong>Data Engineering Tools:</strong><br>
@@ -130,7 +120,6 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="36" height="36"/>
   </a>
   
-  <br><br>
 
 </p>
 
