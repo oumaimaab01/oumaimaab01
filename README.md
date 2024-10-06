@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Oumaima ABJAOU</h1>
 <h3 align="center"> Business Intelligence & Analytics Student @ENSIAS || AI enthusiast</h3> 
 
-🎓I am an undergraduate student at the National School of Computer Science and Systems Analysis, specializing in Business Intelligence and Data Analytics. My primary focus is on data-driven fields, where I aim to harness the power of data to drive informed decision-making and strategic insights. I am particularly passionate about exploring Artificial Intelligence and Web Development, as I believe these areas hold transformative potential for businesses and society.
+🎓I am an undergraduate student at the National School of Computer Science and Systems Analysis, specializing in Business Intelligence and Data Analytics. My primary focus is on data-driven fields, where I aim to harness the power of data to drive informed decision-making and strategic insights. I am particularly passionate about exploring Data Engineering and Artificial Intelligence, as I believe these areas hold transformative potential for businesses and society.
 
 
 * 📫 You can contact me at <a href="mailto:(abjaou.oumaima2002@gmail.com">abjaou.oumaima2002@gmail.com</a>
 
 
-* 🧠 I am currently delving into Natural Language Processing (NLP), Generative AI (GenAI), and Retrieval-Augmented Generation (RAG). I’m excited to explore how these technologies can revolutionize data interaction and content generation, enhancing user experiences across various applications.
+* 🧠I am currently delving into Big Data technologies and their applications. I’m excited to explore how these innovations can transform data processing, analytics, and decision-making, ultimately driving insights and enhancing efficiencies across various industries.
 
 * 🤝 I’m actively seeking opportunities to collaborate on projects related to data analytics and business intelligence. I believe that teamwork fosters innovation, and I’m eager to contribute my skills while learning from others in the field.
 
