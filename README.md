@@ -112,12 +112,6 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
   </a>
 
-  <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg" alt="Beautiful Soup" width="36" height="36"/>
-  </a>
-  <a href="https://docs.python-requests.org/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/requests/requests-original.svg" alt="Requests" width="36" height="36"/>
-  </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="36" height="36"/>
   </a>
