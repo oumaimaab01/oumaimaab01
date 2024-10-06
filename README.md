@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
 
 ### Skills
 
-<p align="left">
+<p>
 
   <!-- Programming Languages -->
   <strong>Programming Languages:</strong><br>
