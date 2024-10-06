@@ -70,6 +70,10 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="36" height="36"/>
   </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="36" height="36"/>
+</a>
+
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="36" height="36"/>
   </a>
@@ -107,7 +111,11 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Apache Hadoop" width="36" height="36"/>
   </a>
-  
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="36" height="36"/>
+</a>
+
+  <!-- others-->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
   </a>
