@@ -59,6 +59,9 @@ src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the
   <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
   </a>
+  <a href="[https://www.oracle.com/uk/index.html](https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=2c502ff64fc0601928663a604ec86101)" target="_blank" rel="noreferrer">
+    <img src="[icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg)" width="36" height="36" alt="Oracle" />
+  </a>
   
   <!-- Data Science Libraries -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
