@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oumaima ABJAOU</h1>
-<h3 align="center"> Business Intelligence & Analytics Student @ENSIAS || AI enthusiast</h3> 
+<h3 align="center"> Business Intelligence & Analytics Student @ENSIAS || Data Engineering enthusiast</h3> 
 
 🎓I am an undergraduate student at the National School of Computer Science and Systems Analysis, specializing in Business Intelligence and Data Analytics. My primary focus is on data-driven fields, where I aim to harness the power of data to drive informed decision-making and strategic insights. I am particularly passionate about exploring Data Engineering and Artificial Intelligence, as I believe these areas hold transformative potential for businesses and society.
 
