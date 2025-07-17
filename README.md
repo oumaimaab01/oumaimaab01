@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Oumaima ABJAOU</h1>
-<h3 align="center"> Business Intelligence & Analytics Student @ENSIAS || Data Engineering enthusiast</h3> 
+<h3 align="center"> Business Intelligence & Analytics Engineer || Data Engineering Enthusiast</h3> 
 
-🎓I am an undergraduate student at the National School of Computer Science and Systems Analysis, specializing in Business Intelligence and Data Analytics. My primary focus is on data-driven fields, where I aim to harness the power of data to drive informed decision-making and strategic insights. I am particularly passionate about exploring Data Engineering and Artificial Intelligence, as I believe these areas hold transformative potential for businesses and society.
+🎓 I am a recent graduate engineer from the National School of Computer Science and Systems Analysis (ENSIAS), specialized in Business Intelligence and Analytics. My focus is on leveraging data to drive strategic insights and support decision-making. I'm especially passionate about Data Engineering and Artificial Intelligence, which I believe are key enablers of innovation and business transformation.
 
+* 📫 You can contact me at <a href="mailto:abjaou.oumaima2002@gmail.com">abjaou.oumaima2002@gmail.com</a>
 
-* 📫 You can contact me at <a href="mailto:(abjaou.oumaima2002@gmail.com">abjaou.oumaima2002@gmail.com</a>
+* 🧠 I’m currently deepening my expertise in Big Data technologies and their practical applications. I'm eager to explore how scalable data pipelines and advanced analytics can optimize processes and empower organizations.
 
+* 🤝 I’m open to collaboration and new opportunities in data analytics, engineering, or BI projects. I value teamwork, continuous learning, and sharing knowledge to grow together in the data field.
 
-* 🧠I am currently delving into Big Data technologies and their applications. I’m excited to explore how these innovations can transform data processing, analytics, and decision-making, ultimately driving insights and enhancing efficiencies across various industries.
+* ⚡ I'm a curious and motivated individual who enjoys turning data into impact, discovering new places, and keeping up with emerging trends in technology and analytics.
 
-* 🤝 I’m actively seeking opportunities to collaborate on projects related to data analytics and business intelligence. I believe that teamwork fosters innovation, and I’m eager to contribute my skills while learning from others in the field.
-
-* ⚡ I'm a curious and driven girl who enjoys exploring the power of data, traveling, and staying up-to-date with the latest trends in the industry.
 
 <a href="https://twitter.com/OumaimaAbj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/OumaimaAbj?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
